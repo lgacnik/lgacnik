@@ -39,7 +39,10 @@ Outside of my professional life, I'm a proud dog owner and a nature enthusiast. 
 <br>
 <br>
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mucaginger&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 Coding Activity
+
+<!--WakaTime-Start-->
+<!--WakaTime-End-->
 
 #
 
