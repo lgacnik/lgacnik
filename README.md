@@ -36,7 +36,10 @@ Outside of my professional life, I'm a proud dog owner and a nature enthusiast. 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" />
 <img align="left" alt="Markdown" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/markdown/markdown-original.svg" />
 <img align="left" alt="LaTex" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/latex/latex-original.svg" />
-<br />
+<br>
+<br>
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mucaginger&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
