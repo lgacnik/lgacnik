@@ -22,11 +22,12 @@ Outside of my professional life, I'm a proud dog owner and a nature enthusiast. 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/luka-gacnik-52a820139">
-     <img alt="linkedin" title="LinkedIn" src="https://custom-icon-badges.herokuapp.com/badge/LinkedIn-Luka%20Gacnik-blue?logo=linkedin&logoColor=white&style=flat-square" height="30"/></a> 
+     <img alt="linkedin" title="LinkedIn" src="https://custom-icon-badges.herokuapp.com/badge/LinkedIn-Luka%20Gacnik-blue?logo=linkedin&logoColor=white&style=flat-square" height="30"/></a>
   <a href="mailto:lgacnik97@gmail.com">
-     <img alt="gmail" title="Gmail" src="https://custom-icon-badges.herokuapp.com/badge/Gmail-lgacnik97%40gmail.com-red?logo=gmail&logoColor=white&style=flat-square" height="30"/></a> 
+     <img alt="gmail" title="Gmail" src="https://custom-icon-badges.herokuapp.com/badge/Gmail-lgacnik97%40gmail.com-red?logo=gmail&logoColor=white&style=flat-square" height="30"/></a>
+  <a href="https://electronics.stackexchange.com/users/133145/mucaginger">
+    <img alt="stackoverflow" title="StackOverflow" src="https://custom-icon-badges.herokuapp.com/badge/StackOverflow-MucaGinger-orange?logo=stackoverflow&logoColor=white&style=flat-square" height="30"/></a>
 </p>
-
 
 ## 🧰 Languages and Tools
 
@@ -51,5 +52,6 @@ Thanks for stopping by! Feel free to reach out if you'd like to collaborate on a
 
 <!--
 When you have multiple repositories with multiple languages you can use Github Status Bars: https://github.com/anuraghazra/github-readme-stats#repo-card-exclusive-options
-or WakaTime Stats Card
+To further enhance your profile page repository check all these next-level repos from other users: https://github.com/abhisheknaiidu/awesome-github-profile-readme
+An additional emoji picker comes handy: https://github-emoji-picker.rickstaa.dev
 -->
