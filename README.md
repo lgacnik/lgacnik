@@ -6,7 +6,7 @@ Outside of my professional life, I'm a proud dog owner and a nature enthusiast. 
 ## 🌟 About Me
 🌍 I'm from **Slovenia** 🇸🇮.<br>
 🎓 Graduated from **Electrical Engineering** :zap:.<br>
-🌱 Currently learning **Software Development** :desktop_computer:.<br>
+🌱 Currently learning about **Software Development** :desktop_computer:.<br>
 🎵 Listening to **Ambient Music** :relaxed:.<br>
 🚴‍♂️ Fun fact: I love **Masonry** :bricks: and **Gardening** :house_with_garden:.<br>
 🍣 Favourite food: **Chinese Food** :u6709:.<br>
@@ -14,7 +14,7 @@ Outside of my professional life, I'm a proud dog owner and a nature enthusiast. 
 🐕 Pet lover: I have a **Border Collie** named **Blue** :smiling_face_with_three_hearts:.<br>
 
 ## 💼 Professional
-🔭 Internship at **Fotona**.<br>
+🔭 Intern at **Fotona**.<br>
 💼 Position: **Embedded Firmware Developer**.<br>
 📜 Expertise in **Embedded Systems**, **Low-Level Programming**, and **Circuit Design**.<br>
 💬 Ask me about **Home Improvement** and **DIY stuff**.<br>
