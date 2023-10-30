@@ -1,4 +1,4 @@
-# :cat2: MucaGinger
+# :cat2: lucenzo97
 
 As an electrical engineer, I have a solid foundation in embedded systems and circuit simulation. My technical high school education in electronics allowed me to experiment with analog and digital circuits, leading to hands-on experience and numerous DIY projects.
 Outside of my professional life, I'm a proud dog owner and a nature enthusiast. I love to travel, hike, work in my garden, and handle home repair projects.
