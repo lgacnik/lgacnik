@@ -46,7 +46,7 @@ Outside of my professional life, I'm a proud dog owner and a nature enthusiast. 
 ## 📊 Coding Activity
 
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>C++              16 hrs 30 mins █████████████████░░░░░░░░  68.97 %</br>C                 7 hrs 13 mins ███████░░░░░░░░░░░░░░░░░░  30.17 %</br>Objective-C             11 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78 %</br>Assembly                  1 min ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>96 hrs 52 mins</br><strong>Timespan:           </strong>110 days</br><strong>Daily average:      </strong>0 hr(s) 52 min(s)</pre>
+<pre><h2>Last 7 Days</h2>C++              12 hrs 23 mins █████████████████░░░░░░░░  68.01 %</br>C                 5 hrs 37 mins ███████░░░░░░░░░░░░░░░░░░  30.89 %</br>Objective-C             10 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98 %</br>Assembly                  1 min ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>96 hrs 52 mins</br><strong>Timespan:           </strong>111 days</br><strong>Daily average:      </strong>0 hr(s) 52 min(s)</pre>
 <!--WakaTime-End-->
 
 #
