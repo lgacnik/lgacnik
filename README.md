@@ -25,7 +25,7 @@ Outside of my professional life, I'm a proud dog owner and a nature enthusiast. 
      <img alt="linkedin" title="LinkedIn" src="https://custom-icon-badges.herokuapp.com/badge/LinkedIn-Luka%20Gacnik-blue?logo=linkedin&logoColor=white&style=flat-square" height="30"/></a>
   <a href="mailto:lgacnik97@gmail.com">
      <img alt="gmail" title="Gmail" src="https://custom-icon-badges.herokuapp.com/badge/Gmail-lgacnik97%40gmail.com-red?logo=gmail&logoColor=white&style=flat-square" height="30"/></a>
-  <a href="https://electronics.stackexchange.com/users/133145/mucaginger">
+  <a href="https://stackexchange.com/users/9844270/keno">
     <img alt="stackoverflow" title="StackOverflow" src="https://custom-icon-badges.herokuapp.com/badge/StackOverflow-MucaGinger-orange?logo=stackoverflow&logoColor=white&style=flat-square" height="30"/></a>
 </p>
 
