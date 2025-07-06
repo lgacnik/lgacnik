@@ -14,9 +14,9 @@ Outside of my professional life, I'm a proud dog owner and a nature enthusiast. 
 🐕 Pet lover: I have a **Border Collie** named **Blue** :smiling_face_with_three_hearts:.<br>
 
 ## 💼 Professional
-🔭 Intern at **Fotona**.<br>
-💼 Position: **Embedded Firmware Developer**.<br>
+💼 Position: **Embedded Software Developer**.<br>
 📜 Expertise in **Embedded Systems**, **Low-Level Programming**, and **Circuit Design**.<br>
+🔄 Transitioning to **AI Software Developer**.<br>
 💬 Ask me about **Home Improvement** and **DIY stuff**.<br>
 <br>
 
