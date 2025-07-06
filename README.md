@@ -21,7 +21,7 @@ Outside of my professional life, I'm a proud dog owner and a nature enthusiast. 
 <br>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/luka-gacnik-52a820139">
+  <a href="www.linkedin.com/in/luka-g-52a820139">
      <img alt="linkedin" title="LinkedIn" src="https://custom-icon-badges.herokuapp.com/badge/LinkedIn-Luka%20Gacnik-blue?logo=linkedin&logoColor=white&style=flat-square" height="30"/></a>
   <a href="mailto:lgacnik97@gmail.com">
      <img alt="gmail" title="Gmail" src="https://custom-icon-badges.herokuapp.com/badge/Gmail-lgacnik97%40gmail.com-red?logo=gmail&logoColor=white&style=flat-square" height="30"/></a>
